@@ -1,6 +1,8 @@
 # Optimisation
 LP solver for Fractional Clique Cover &amp; Shannon Entropy for graphs. 
 
+You will need the following packages installed: networkx, pulp, fractions
+
 Run the python file and follow the on instructions in the CLI.
 
 Create your own graph or load one of the examples. 
